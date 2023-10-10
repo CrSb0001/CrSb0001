@@ -7,6 +7,7 @@
         Instagram: CrSb0001
         Twitter: CrSb0001
         Private email: crsb505@gmail.com
+        Scratch: https://scratch.mit.edu/users/CrSb0001/
 
 <!---
 CrSb0001/CrSb0001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
